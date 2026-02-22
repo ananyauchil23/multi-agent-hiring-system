@@ -98,45 +98,7 @@ Structured JSON Output
 ---
 
 
-## 📂 Project Structure
 
-autonomous-technical-interview-panel/
-│
-├── backend/
-│   ├── agents/
-│   │   ├── resume_agent.py
-│   │   ├── transcript_agent.py
-│   │   ├── gap_agent.py
-│   │   ├── committee_agent.py
-│   │
-│   ├── chains/
-│   │   └── base_chain.py
-│   │
-│   ├── main.py
-│   ├── requirements.txt
-│   └── .env (not committed)
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Hero.jsx
-│   │   │   ├── Features.jsx
-│   │   │   ├── HowItWorks.jsx
-│   │   │   ├── Evaluation.jsx
-│   │   │   ├── Results.jsx
-│   │   │   └── Footer.jsx
-│   │   │
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   ├── index.css
-│   │   └── main.jsx
-│   │
-│   ├── package.json
-│   └── vite.config.js
-│
-├── .gitignore
-└── README.md
-<code>
 
 ## 🚀 Running the Project Locally
 
