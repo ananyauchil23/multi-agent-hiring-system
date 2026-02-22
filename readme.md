@@ -97,7 +97,7 @@ Structured JSON Output
 
 ---
 
-## 📦 Project Structure
+
 ## 📂 Project Structure
 
 autonomous-technical-interview-panel/
@@ -136,6 +136,7 @@ autonomous-technical-interview-panel/
 │
 ├── .gitignore
 └── README.md
+<code>
 
 ## 🚀 Running the Project Locally
 
